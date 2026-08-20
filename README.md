@@ -19,11 +19,11 @@ Elle précise également les rôles respectifs des participants et des organisat
 
 La présente charte a pour objectifs :
 
-* d'améliorer la sécurité individuelle et collective lors des sorties, stages et événements organisés par le club ;
-* de favoriser l'autonomie et la responsabilité individuelle des pilotes ;
-* de développer une culture commune de préparation, d'analyse et de retour d'expérience ;
-* de favoriser la cohésion, la solidarité et la confiance entre les pilotes ;
-* de favoriser un environnement permettant à chacun de progresser dans sa pratique ;
+* d'améliorer la sécurité individuelle et collective lors des sorties, stages et événements organisés par le club
+* de favoriser l'autonomie et la responsabilité individuelle des pilotes
+* de développer une culture commune de préparation, d'analyse et de retour d'expérience
+* de favoriser la cohésion, la solidarité et la confiance entre les pilotes
+* de favoriser un environnement permettant à chacun de progresser dans sa pratique
 * de définir clairement les rôles et les limites d'intervention des organisateurs et des participants.
 
 ---
@@ -32,11 +32,11 @@ La présente charte a pour objectifs :
 
 Pour atteindre ces objectifs, le club s'appuie notamment sur :
 
-* la formalisation des bonnes pratiques attendues des adhérents ;
-* la préparation collective des vols et l'analyse des conditions ;
-* les briefings et débriefings ;
-* le partage d'expérience entre pilotes ;
-* les moyens collectifs d'information, de communication, de tracking et de vigilance ;
+* la formalisation des bonnes pratiques attendues des adhérents
+* la préparation collective des vols et l'analyse des conditions
+* les briefings et débriefings
+* le partage d'expérience entre pilotes
+* les moyens collectifs d'information, de communication, de tracking et de vigilance
 * l'accompagnement des pilotes lorsque des difficultés sont identifiées.
 
 Ces moyens ont pour objectif de contribuer à la sécurité collective.
@@ -49,10 +49,10 @@ Ces moyens ont pour objectif de contribuer à la sécurité collective.
 
 La pratique autonome du parapente requiert :
 
-* un engagement personnel dans l'acquisition progressive des compétences nécessaires à la pratique visée ;
-* une pratique adaptée à ses compétences du moment ;
-* la prise en compte du site, de l'horaire, de la météo, du plan de vol, du matériel et de son état physique et mental ;
-* un volume d'activité cohérent avec ses objectifs et son niveau ;
+* un engagement personnel dans l'acquisition progressive des compétences nécessaires à la pratique visée
+* une pratique adaptée à ses compétences du moment
+* la prise en compte du site, de l'horaire, de la météo, du plan de vol, du matériel et de son état physique et mental
+* un volume d'activité cohérent avec ses objectifs et son niveau
 * la capacité à reconnaître ses limites et à renoncer lorsque les conditions ne sont pas adaptées.
 
 La pratique en club peut contribuer à ces différents points grâce aux interactions nombreuses entre pilotes.
@@ -69,11 +69,11 @@ Chaque pilote s'engage à adopter une attitude d'humilité et de remise en quest
 
 Cela implique notamment :
 
-* de connaître et reconnaître ses propres limites ;
-* d'adapter sa pratique à son niveau réel et à son expérience récente ;
-* de prendre en compte son état physique et mental ;
-* de réévaluer une décision lorsque les conditions ou les informations disponibles évoluent ;
-* d'accepter les remarques et retours d'expérience concernant sa pratique lorsqu'ils sont formulés dans un objectif de sécurité et de progression ;
+* de connaître et reconnaître ses propres limites
+* d'adapter sa pratique à son niveau réel et à son expérience récente
+* de prendre en compte son état physique et mental
+* de réévaluer une décision lorsque les conditions ou les informations disponibles évoluent
+* d'accepter les remarques et retours d'expérience concernant sa pratique lorsqu'ils sont formulés dans un objectif de sécurité et de progression
 * de reconnaître ses erreurs ou ses décisions inadaptées et d'en tirer les enseignements.
 
 La capacité à se remettre en question constitue une compétence importante du pilote autonome.
@@ -88,10 +88,10 @@ Les échanges concernant la pratique et la sécurité ont pour objectif la compr
 
 Chaque membre s'engage notamment à :
 
-* écouter les observations et les expériences des autres pilotes ;
-* pouvoir exprimer ses doutes, interrogations ou difficultés ;
-* formuler ses remarques de manière respectueuse, factuelle et constructive ;
-* accepter qu'une situation puisse être analysée différemment par plusieurs pilotes ;
+* écouter les observations et les expériences des autres pilotes
+* pouvoir exprimer ses doutes, interrogations ou difficultés
+* formuler ses remarques de manière respectueuse, factuelle et constructive
+* accepter qu'une situation puisse être analysée différemment par plusieurs pilotes
 * favoriser un climat dans lequel chacun peut reconnaître une erreur ou une incertitude sans être dévalorisé.
 
 Le désaccord est possible et peut être exprimé. Il doit toutefois pouvoir l'être dans un esprit respectueux et constructif.
@@ -116,10 +116,10 @@ La préparation et le retour d'expérience font partie intégrante des événeme
 
 Les participants s'engagent, dans la mesure de leurs possibilités, à participer aux temps collectifs proposés lors des sorties :
 
-* préparation météorologique ;
-* analyse des sites et des conditions ;
-* briefing avant les vols ;
-* échanges sur les objectifs et les limites de chacun ;
+* préparation météorologique
+* analyse des sites et des conditions
+* briefing avant les vols
+* échanges sur les objectifs et les limites de chacun
 * débriefing et retour d'expérience après les vols.
 
 Ces temps collectifs ont pour objectif de développer l'autonomie des pilotes, le partage d'expérience et la sécurité collective.
@@ -134,12 +134,12 @@ Chaque pilote demeure responsable de ses décisions de vol.
 
 Il décide notamment de réaliser ou non son vol et de la manière dont il le réalise, en fonction :
 
-* de ses compétences ;
-* de son expérience récente ;
-* de son état physique et mental ;
-* de son matériel ;
-* des conditions météorologiques et aérologiques ;
-* du site et de son environnement ;
+* de ses compétences
+* de son expérience récente
+* de son état physique et mental
+* de son matériel
+* des conditions météorologiques et aérologiques
+* du site et de son environnement
 * de ses propres objectifs et limites.
 
 La participation à une sortie collective ne transfère pas cette responsabilité au club, aux organisateurs ou aux autres pilotes.
@@ -154,11 +154,11 @@ Les organisateurs assurent la coordination générale de l'événement.
 
 Ils ont notamment pour rôle de :
 
-* coordonner les aspects logistiques ;
-* faciliter les échanges entre les participants ;
-* faciliter l'organisation de points météo ;
-* faciliter les briefings et débriefings ;
-* transmettre les informations utiles au bon déroulement de l'événement ;
+* coordonner les aspects logistiques
+* faciliter les échanges entre les participants
+* faciliter l'organisation de points météo
+* faciliter les briefings et débriefings
+* transmettre les informations utiles au bon déroulement de l'événement
 * contribuer à la vigilance collective.
 
 Les organisateurs ne sont pas les directeurs de vol des participants et n'ont pas pour mission de décider à leur place s'ils doivent voler.
@@ -171,12 +171,12 @@ Les organisateurs peuvent néanmoins prendre des décisions concernant **l'organ
 
 Le club peut mettre en œuvre différents moyens destinés à améliorer la sécurité collective :
 
-* radio ;
-* tracking ;
-* échanges météo ;
-* points de situation ;
-* vigilance des pilotes au sol ;
-* briefing et débriefing ;
+* radio
+* tracking
+* échanges météo
+* points de situation
+* vigilance des pilotes au sol
+* briefing et débriefing
 * moyens de communication du groupe.
 
 Ces moyens constituent des outils d'information, d'alerte et d'assistance collective.
@@ -213,9 +213,9 @@ Chaque pilote déclare disposer d'un matériel adapté à sa pratique et en éta
 
 Cela comprend notamment :
 
-* une radio opérationnelle ;
-* une voile et une sellette en état ;
-* un parachute de secours entretenu et plié conformément aux recommandations du fabricant ;
+* une radio opérationnelle
+* une voile et une sellette en état
+* un parachute de secours entretenu et plié conformément aux recommandations du fabricant
 * les instruments et moyens de communication ou de localisation nécessaires à sa pratique.
 
 Chaque pilote est responsable du contrôle et de l'entretien de son propre matériel, éventuellement avec l'aide d'un professionnel.
@@ -242,13 +242,13 @@ Les participants contribuent, dans la mesure de leurs possibilités, au bon dér
 
 Cela peut notamment comprendre :
 
-* la récupération des pilotes ;
-* la préparation météo ;
-* les briefings et débriefings ;
-* les topos ;
-* la navette ;
-* le covoiturage ;
-* la logistique ;
+* la récupération des pilotes
+* la préparation météo
+* les briefings et débriefings
+* les topos
+* la navette
+* le covoiturage
+* la logistique
 * l'entraide entre participants.
 
 La participation à ces activités fait partie de l'esprit collectif des sorties Crécerelles.
@@ -261,11 +261,11 @@ Les adhérents participant aux événements s'engagent à répondre aux sollicit
 
 Ces demandes peuvent intervenir avant, pendant ou après une sortie et peuvent notamment concerner :
 
-* le volume et la fréquence de pratique ;
-* l'expérience récente ;
-* les formations suivies ;
-* la participation à des stages SIV, Performance, Cross ou autres formations ;
-* le matériel utilisé ;
+* le volume et la fréquence de pratique
+* l'expérience récente
+* les formations suivies
+* la participation à des stages SIV, Performance, Cross ou autres formations
+* le matériel utilisé
 * les personnes à contacter en cas de besoin.
 
 Chaque pilote s'engage à maintenir à jour les informations nécessaires dans sa fiche pilote.
@@ -278,10 +278,10 @@ Les participants utilisent les moyens de communication définis pour chaque év�
 
 Ces moyens ont notamment pour objectif de faciliter :
 
-* la préparation de la sortie ;
-* la transmission des informations météo ;
-* la coordination logistique ;
-* les échanges entre participants ;
+* la préparation de la sortie
+* la transmission des informations météo
+* la coordination logistique
+* les échanges entre participants
 * la communication en cas de modification du programme ou de situation particulière.
 
 ---
@@ -290,10 +290,10 @@ Ces moyens ont notamment pour objectif de faciliter :
 
 Le nombre de participants à une sortie peut être limité en fonction :
 
-* du lieu ;
-* du programme ;
-* des conditions prévues ;
-* des contraintes logistiques ;
+* du lieu
+* du programme
+* des conditions prévues
+* des contraintes logistiques
 * des capacités d'organisation et de vigilance du groupe.
 
 La limitation du nombre de participants vise à permettre aux organisateurs de maintenir des conditions d'organisation compatibles avec les objectifs de la sortie.
@@ -310,12 +310,12 @@ Cette appréciation porte sur **l'adéquation du pilote avec les caractéristiqu
 
 Lorsqu'une difficulté est identifiée concernant un pilote, celle-ci peut être :
 
-* technique ;
-* liée à l'expérience récente ;
-* liée à la prise de décision ou à la gestion du risque ;
-* liée à la capacité à renoncer ;
-* liée à l'attitude ou à l'état d'esprit ;
-* liée à la capacité à écouter les remarques et à se remettre en question ;
+* technique
+* liée à l'expérience récente
+* liée à la prise de décision ou à la gestion du risque
+* liée à la capacité à renoncer
+* liée à l'attitude ou à l'état d'esprit
+* liée à la capacité à écouter les remarques et à se remettre en question
 * liée au respect du fonctionnement collectif ou des règles de sécurité.
 
 L'analyse doit autant que possible s'appuyer sur des **faits ou comportements observables**, et non sur un jugement général porté sur la personne.
@@ -336,37 +336,37 @@ Le plan d'action est adapté à la nature des difficultés identifiées.
 
 Le plan d'action peut notamment comprendre :
 
-* une formation ou un stage auprès d'une école professionnelle ;
-* un stage SIV, Cross, Performance ou toute autre formation adaptée ;
-* un travail spécifique sur certaines compétences de pilotage ;
-* une reprise progressive de la pratique ;
-* une limitation temporaire à certains types de sites ou de conditions ;
-* un accompagnement professionnel ;
-* des objectifs techniques précis et vérifiables ;
+* une formation ou un stage auprès d'une école professionnelle
+* un stage SIV, Cross, Performance ou toute autre formation adaptée
+* un travail spécifique sur certaines compétences de pilotage
+* une reprise progressive de la pratique
+* une limitation temporaire à certains types de sites ou de conditions
+* un accompagnement professionnel
+* des objectifs techniques précis et vérifiables
 * une nouvelle évaluation avant le retour à certaines sorties.
 
 ### 20.2 Difficultés liées à la prise de décision ou à la gestion du risque
 
 Le plan d'action peut notamment comprendre :
 
-* un travail sur l'analyse des conditions et l'identification des facteurs de risque ;
-* une réflexion sur les situations ayant conduit au constat ;
-* des objectifs concernant la préparation des vols et la gestion du renoncement ;
-* une reprise progressive dans des conditions adaptées ;
-* des échanges réguliers avec les organisateurs ou pilotes expérimentés ;
+* un travail sur l'analyse des conditions et l'identification des facteurs de risque
+* une réflexion sur les situations ayant conduit au constat
+* des objectifs concernant la préparation des vols et la gestion du renoncement
+* une reprise progressive dans des conditions adaptées
+* des échanges réguliers avec les organisateurs ou pilotes expérimentés
 * des objectifs permettant d'évaluer l'évolution de la prise de décision.
 
 ### 20.3 Difficultés liées à l'attitude ou à l'état d'esprit
 
 Lorsque les difficultés concernent principalement l'attitude ou l'état d'esprit du pilote, le plan d'action peut notamment porter sur :
 
-* la capacité à écouter les remarques et retours d'expérience ;
-* la capacité à accepter un échange contradictoire sans le considérer comme une remise en cause personnelle ;
-* la capacité à reconnaître une erreur ou une décision inadaptée ;
-* la capacité à remettre en question son analyse lorsque de nouveaux éléments sont apportés ;
-* la capacité à reconnaître ses limites et à renoncer lorsque nécessaire ;
-* la participation constructive aux briefings et débriefings ;
-* la capacité à adopter une attitude respectueuse et constructive avec les autres membres ;
+* la capacité à écouter les remarques et retours d'expérience
+* la capacité à accepter un échange contradictoire sans le considérer comme une remise en cause personnelle
+* la capacité à reconnaître une erreur ou une décision inadaptée
+* la capacité à remettre en question son analyse lorsque de nouveaux éléments sont apportés
+* la capacité à reconnaître ses limites et à renoncer lorsque nécessaire
+* la participation constructive aux briefings et débriefings
+* la capacité à adopter une attitude respectueuse et constructive avec les autres membres
 * la capacité à contribuer positivement à la sécurité collective.
 
 Le club peut proposer un accompagnement ou des échanges permettant au pilote de travailler sur ces différents aspects.
@@ -385,13 +385,13 @@ Le retour aux sorties est possible lorsque les conditions ayant conduit à la re
 
 Cette appréciation peut notamment prendre en compte :
 
-* l'acquisition ou la consolidation des compétences techniques nécessaires ;
-* l'évolution de la prise de décision et de la gestion du risque ;
-* la capacité à reconnaître ses limites et à renoncer lorsque nécessaire ;
-* la capacité à entendre les observations et à dialoguer de manière constructive ;
-* la capacité à remettre en question ses décisions ;
-* la participation constructive aux préparations, briefings et débriefings ;
-* la réalisation des actions prévues dans le plan d'action ;
+* l'acquisition ou la consolidation des compétences techniques nécessaires
+* l'évolution de la prise de décision et de la gestion du risque
+* la capacité à reconnaître ses limites et à renoncer lorsque nécessaire
+* la capacité à entendre les observations et à dialoguer de manière constructive
+* la capacité à remettre en question ses décisions
+* la participation constructive aux préparations, briefings et débriefings
+* la réalisation des actions prévues dans le plan d'action
 * les formations ou actions d'accompagnement réalisées.
 
 Lorsque cela est pertinent, le retour peut être progressif, avec une participation à des sorties adaptées avant un retour à l'ensemble des sorties du club.
@@ -406,9 +406,9 @@ Lorsque les éléments disponibles conduisent le club à considérer que la part
 
 Cette décision peut être :
 
-* limitée à une sortie particulière ;
-* temporaire ;
-* assortie de conditions ou d'adaptations ;
+* limitée à une sortie particulière
+* temporaire
+* assortie de conditions ou d'adaptations
 * accompagnée d'un plan d'action lorsque cela est nécessaire.
 
 La décision tient compte notamment de la gravité ou de la répétition des situations constatées, du contexte et des éléments disponibles.
@@ -431,11 +431,11 @@ Le club ne peut pas garantir la sécurité de chaque pilote.
 
 Il peut en revanche créer les conditions favorables à une pratique plus sûre en permettant :
 
-* une meilleure préparation ;
-* des échanges de qualité ;
-* le partage d'expérience ;
-* la remise en question ;
-* la vigilance collective ;
+* une meilleure préparation
+* des échanges de qualité
+* le partage d'expérience
+* la remise en question
+* la vigilance collective
 * l'accompagnement des pilotes lorsque cela est nécessaire.
 
 Chaque pilote contribue à cette démarche par son comportement, ses décisions et sa participation à la vie collective du groupe.
