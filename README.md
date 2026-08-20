@@ -161,7 +161,7 @@ Ils ont notamment pour rôle de :
 * transmettre les informations utiles au bon déroulement de l'événement ;
 * contribuer à la vigilance collective.
 
-Sauf mandat spécifique clairement défini, les organisateurs ne sont pas les directeurs de vol des participants et n'ont pas pour mission de décider à leur place s'ils doivent voler.
+Les organisateurs ne sont pas les directeurs de vol des participants et n'ont pas pour mission de décider à leur place s'ils doivent voler.
 
 Les organisateurs peuvent néanmoins prendre des décisions concernant **l'organisation de l'événement et la sécurité collective**, notamment lorsque les conditions ne permettent plus son déroulement normal.
 
